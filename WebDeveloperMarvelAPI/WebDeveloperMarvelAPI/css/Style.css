@@ -1,0 +1,10 @@
+﻿body 
+{
+    background:#BDC3C7;
+}
+
+img.img-thumbnail
+{
+    width: 80%;
+    height: 80%;
+}

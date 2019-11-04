@@ -1,0 +1,5 @@
+c:\users\st-ses-097\documents\visual studio 2010\Projects\WebDeveloperMarvelAPI\WebDeveloperMarvelAPI\bin\WebDeveloperMarvelAPI.dll
+c:\users\st-ses-097\documents\visual studio 2010\Projects\WebDeveloperMarvelAPI\WebDeveloperMarvelAPI\bin\WebDeveloperMarvelAPI.pdb
+c:\users\st-ses-097\documents\visual studio 2010\Projects\WebDeveloperMarvelAPI\WebDeveloperMarvelAPI\obj\Debug\WebDeveloperMarvelAPI.dll
+c:\users\st-ses-097\documents\visual studio 2010\Projects\WebDeveloperMarvelAPI\WebDeveloperMarvelAPI\obj\Debug\WebDeveloperMarvelAPI.pdb
+C:\Users\ST-SES-097\documents\visual studio 2010\Projects\WebDeveloperMarvelAPI\WebDeveloperMarvelAPI\obj\Debug\WebDeveloperMarvelAPI.csprojResolveAssemblyReference.cache
